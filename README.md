@@ -52,7 +52,6 @@ CREATE TABLE issues (
 );
 ```
 
-I can add this as a separate `schema.sql` file if you want.
 
 ### Create an admin user
 Run this after creating a user (replace `<user-id>`):
@@ -127,4 +126,4 @@ Repo: https://github.com/godwin-codes/Village-Issue-Reporting-And-Tracking-Syste
 - Implement password hashing (bcrypt) in registration and login
 - Add CI or deployment instructions
 
-If you want one of these, tell me which and I'll implement it.
+
