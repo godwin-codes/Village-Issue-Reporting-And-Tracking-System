@@ -1,0 +1,45 @@
+# Compiled class files
+*.class
+
+# Java archives
+*.jar
+*.war
+
+# IDEs and workspace
+/.idea/
+*.iml
+/.vscode/
+
+# Build folders
+/target/
+/build/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Environment and config files containing secrets
+.env
+config.properties
+
+# Tomcat / Java keystore
+*.keystore
+
+# Node modules
+/node_modules/
+
+# Compiled web content and libs
+/WebContent/WEB-INF/classes/
+/WebContent/WEB-INF/lib/*.jar
+/WEB-INF/classes/
+/WEB-INF/lib/*.jar
+
+# Distribution bundles
+/dist/
+VillageIssueSystem.war
+
+# OS files
+Thumbs.db
+ehthumbs.db
