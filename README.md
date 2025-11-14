@@ -121,9 +121,9 @@ Repo: https://github.com/godwin-codes/Village-Issue-Reporting-And-Tracking-Syste
 ## License & contributing
 - Consider adding a `LICENSE` (e.g., MIT) and `CONTRIBUTING.md` if you want community contributions.
 
-## Next steps I can help with
-- Add `schema.sql` to the repo
-- Implement password hashing (bcrypt) in registration and login
-- Add CI or deployment instructions
+## Roadmap
+- Add `schema.sql` to the repository (separate SQL file for easy DB setup)
+- Implement secure password storage using bcrypt (`jBCrypt`) for registration and login
+- Add CI configuration and deployment instructions
 
 
